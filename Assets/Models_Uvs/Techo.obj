@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 07.03.2018 09:38:30
+
+mtllib Techo.mtl
+
+#
+# object Object001
+#
+
+v  -617.2145 324.0833 -805.1757
+v  -617.2145 324.0832 851.9633
+v  1017.6458 324.0832 851.9633
+v  1017.6458 324.0833 -805.1757
+# 4 vertices
+
+vn 0.0000 -1.0000 -0.0000
+# 1 vertex normals
+
+vt 0.1837 0.8206 0.0000
+vt 0.1837 0.1794 0.0000
+vt 0.8163 0.1794 0.0000
+vt 0.8163 0.8206 0.0000
+# 4 texture coords
+
+o Object001
+g Object001
+usemtl wire_214229166
+s 1
+f 4/4/1 3/3/1 2/2/1 1/1/1 
+# 1 polygons
+
